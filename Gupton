@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="style.css">
+<script src="index.js"></script>
+</head>
+
+<title>Gupton pet Care</title>
+
+<head>
+
+<meta charset="UTF-8" />
+
+</head>
+
+<body>
+<header>
+<h1>Gupton Pet Care center</h1>
+</header>
+
+
+<nav class="menu">
+<ul>
+<li><a href="#">boarding</a></li>
+<li><a href="#">grooming</a></li>
+<li><a href="#">New client-info</a></li>
+<li><a href="#">products</a></li>
+</ul>
+
+</nav>
+
+
+<img src="http/images/gup.png" alt="Gupton logo" />
+
+
+<main>
+
+<h2>About Us</h2>
+
+<section>
+<h3>Location</h3>
+<ul>
+<li>Boarding/Daycare/Grooming: <em>2809 S George Washington Blvd Wichita, KS 67210</em></li>
+<li>Gupton Pet Care Center: <em>22815 S George Washington Blvd Wichita, KS 67210</em></li>
+<li>Gupton's House Vet Clinic: <em>22813 S George Washington Blvd Wichita, KS 67210</em></li>
+</ul>
+</section>
+
+<section>
+<h3>Regular Hours</h3>
+
+<dl>
+
+<dt>Gupton Pet Care Center Retail Store</dt>
+<dd>Tuesday to Saturday: <em>11am - 6pm</em></dd>
+<dd>Sundays and Mondays: <strong>closed</strong></dd>
+
+<dt>Call-in appointment and Order pick up</dt>
+
+<dd>Tuesday to saturday: <em>11am - 7pm</em></dd>
+<dd>Sundays and mondays: <em> 9am - 10am</em> and <em>4pm - 6pm</em></dd>
+<dt>Gupton's House Vet Clinic Boarding Daycare</dt>
+<dd>Tuesday to Saturday: <em>11am - 7pm</em></dd>
+<dd>Sundays and Mondays: <em> 8am - 10am</em> and <em>4pm-6pm</em></dd>
+</dl>
+
+<p>
+
+Have a look at our
+
+<a href="https://guptonspetcare.com/guptons-house-vet-clinic/clinic-dates-hours.html"> calender </a>
+
+for recent updates </p>
+
+</section>
+
+<section>
+
+<h3>Holiday Hours</h3>
+
+<dl>
+
+<dt>Gupton Pet Care Center Retail Store</dt>
+<dd>Tuesday to Saturday: <em>11am - 6pm</em></dd>
+<dd>Sundays and Mondays: <strong>closed</strong></dd>
+
+<dt>Call-in appointment and Order pick up</dt>
+<dd>Tuesday to saturday: <em>11am - 7pm</em></dd>
+<dd>Sundays and mondays: <em> 9am - 10am</em> and <em>4pm - 6pm</em></dd>
+
+<dt>Gupton's House Vet Clinic Boarding Daycare</dt>
+<dd>Tuesday to Saturday: <em>11am - 7pm</em></dd>
+<dd>Sundays and Mondays: <em> 8am - 10am</em> and <em>4pm-6pm</em></dd>
+
+</dl>
+
+<!--<p>
+Retail Store (2815 Geo Wash Blvd)
+
+<strong>Open</strong> 11 am - 5 pm:4th of July, Thanksgiving Eve, Christmas Eve, and New Year's Eve
+<strong>Closed</strong>New Year's Day, Easter Day, Thanksgiving Day, and Christmas Day
+Remember if they fall on Sunday or Monday we will be Closed
+
+Boarding and Daycare (2809 Geo Wash Blvd)
+<strong>open</strong> 4th of july thanksgiving Day Christmas eve New years eve & New years day
+<strong>Closed:</strong> Easter Day, Thanksgiving Day, and Christmas Day
+Gupton's House Vet Clinic (2813 Geo Wash Blvd)-
+boarding daycare
+tues-sat 7am -10am or 4pm-6:50pm 
+</p>-->
+</section>
+
+</main>
+<footer class="menu">
+<ul>
+
+<li>Gupton TM</li>
+
+<li><a href="#">something</a></li>
+
+<li><a href="#">something else</a></li>
+
+<li>316-682-8110</li>
+
+</ul>
+</footer>
+</body>
+
+</html>
